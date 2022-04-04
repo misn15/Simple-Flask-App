@@ -7,6 +7,6 @@
 * PostgreSQL
 * SQLAlchemy
 
-## Description:
+## Description
 
 Simple Flask web application built to handle user login and logout functionality. PostgreSQL is used to store user information and users can edit their profile information while logged in.
